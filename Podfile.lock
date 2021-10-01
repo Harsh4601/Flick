@@ -1,0 +1,16 @@
+PODS:
+  - CardSlider (0.1.0)
+
+DEPENDENCIES:
+  - CardSlider
+
+SPEC REPOS:
+  trunk:
+    - CardSlider
+
+SPEC CHECKSUMS:
+  CardSlider: 0a8f5f17f5a76701771794b07fdaeddc512358c8
+
+PODFILE CHECKSUM: b2338cc13be03bead27d23b42abc569536526abc
+
+COCOAPODS: 1.11.2
